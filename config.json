@@ -1,0 +1,11 @@
+{
+    "modules": [
+        "first_screen",
+        "second_screen",
+        "third_screen",
+        "screen"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "unfreezed": true
+}
